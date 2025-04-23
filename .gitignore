@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.db
+site/
+.DS_Store
+Thumbs.db
+github_token.txt
+hosts_file_list.txt
