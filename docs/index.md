@@ -28,6 +28,16 @@ This lab simulates a real-world Kubernetes deployment scenario – all running l
 
 ---
 
+## 📚 Quick Navigation
+
+???+ info "Browse Topics"
+    - [☸️ Kubernetes Setup](kubernetes-setup.md)
+    - [🔄 CI/CD Pipeline](ci-cd.md)
+    - [🚀 Application Deployment](app-deployment.md)
+    - [🧱 Architecture & Networking](architecture.md)
+
+---
+
 🎥 *Presented by Shiva Naik (ShivaOps)* – *DevOps Learner | Oracle PL/SQL & D2K Developer | Linux Shell Scripting | Kubernetes Enthusiast*
 
 📄 [Download PDF Version](https://raw.githubusercontent.com/shivaops/assets/main/shivaops-docs.pdf)
