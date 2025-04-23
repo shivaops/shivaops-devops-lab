@@ -67,7 +67,7 @@ Everything is **fully automated** and **preconfigured** on `vagrant up`.
 ✅ **YouTube Video Walkthrough on ShivaOps Channel**  
 ✅ **Downloadable Vagrant Files + Manifests**
 
-Stay tuned for updates!
+Stay tuned for updates!!
 
 ---
 
