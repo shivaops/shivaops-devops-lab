@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://shivaops.github.io/shivaops-devops-lab/</loc>
+         <lastmod>2025-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://shivaops.github.io/shivaops-devops-lab/app-deployment/</loc>
+         <lastmod>2025-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://shivaops.github.io/shivaops-devops-lab/architecture/</loc>
+         <lastmod>2025-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://shivaops.github.io/shivaops-devops-lab/ci-cd/</loc>
+         <lastmod>2025-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://shivaops.github.io/shivaops-devops-lab/kubernetes-setup/</loc>
+         <lastmod>2025-04-23</lastmod>
+    </url>
+</urlset>
